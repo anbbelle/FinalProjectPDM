@@ -1,0 +1,27 @@
+1|anabelle|01-12-2025|Expense|Food & Drinks|70000|McD
+1|abell|15-12-2025|Income|Salary/Allowance|12000000|Gaji Desember
+2|abell|15-12-2025|Expense|Food & Drinks|72000|Okiru ramen
+3|abell|15-12-2025|Expense|Transportation|24000|Gojek
+4|abell|15-12-2025|Expense|Shopping|427000|Skincare
+5|abell|15-12-2025|Expense|Health|250000|Vitamin D
+1|cloudiey|10-01-2026|Income|Salary/Allowance|10000000|
+2|cloudiey|10-01-2026|Expense|Food & Drinks|50000|sushi
+1|darmaningmaria|10-01-2026|Income|Salary/Allowance|10000000|
+2|darmaningmaria|10-01-2026|Expense|Food & Drinks|50000|sushi
+3|darmaningmaria|10-01-2026|Expense|Education|15000|kertas binder
+4|darmaningmaria|10-01-2026|Expense|Shopping|250000|skincare
+5|darmaningmaria|10-01-2026|Expense|Transportation|25000|grab
+1|darmaningmariaa|10-01-2026|Income|Salary/Allowance|15000000|uang bulan januari
+2|darmaningmariaa|10-01-2026|Expense|Food & Drinks|75000|sushi
+3|darmaningmariaa|10-01-2026|Expense|Transportation|25000|gojek
+1|anbbelle|10-01-2026|Income|Salary/Allowance|15000000|gaji bulan januari
+2|anbbelle|10-01-2026|Expense|Food & Drinks|75000|sushi
+3|anbbelle|10-01-2026|Expense|Transportation|45000|grab car
+4|anbbelle|10-01-2026|Expense|Education|60000|alat tulis
+5|anbbelle|10-01-2026|Expense|Shopping|275000|skincare
+6|anbbelle|10-01-2026|Expense|Health|250000|vitamin
+1|anbellee|12-01-2026|Income|Salary/Allowance|15000000|gaji bulan januari
+2|anbellee|12-01-2026|Expense|Food & Drinks|75000|sushi
+3|anbellee|12-01-2026|Expense|Transportation|43000|grab car
+4|anbellee|12-01-2026|Expense|Education|55000|alat tulis
+5|anbellee|12-01-2026|Expense|Shopping|350000|skincare
